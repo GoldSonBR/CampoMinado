@@ -6,6 +6,6 @@ def height_prct(percentage):
 def width_prct(percentage):
     return(settings.WIDTH / 100) * percentage
 
-#defazer comentario para testes se nessesário
+#defazer comentarios para testes se nessesário
 # print(height_prct(25))
 # print(width_prct(25))
