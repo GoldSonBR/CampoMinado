@@ -1,6 +1,6 @@
 Campo Minado Clássico em Python
 
-    Descrição:
+Descrição:
 
 Este repositório GitHub apresenta um jogo de Campo Minado clássico implementado em Python, utilizando apenas bibliotecas internas da linguagem. O objetivo do jogo é desvendar todas as células seguras do tabuleiro sem acionar nenhuma bomba.
 
@@ -31,16 +31,16 @@ Sinta-se à vontade para contribuir com sugestões e melhorias!
 Tecnologias Utilizadas:
 
 Python 3.x
-Bibliotecas padrão do Python
+    Bibliotecas padrão do Python
+        
 Licença:
-
-Este projeto está licenciado sob a licença MIT.
+    Este projeto está licenciado sob a licença MIT.
 
 Contribuições:
 
-Se você deseja contribuir para este projeto, siga estas etapas:
-
-Crie um fork deste repositório.
-Faça suas alterações na sua cópia local.
-Envie um pull request para este repositório.
-Agradeço a sua colaboração!
+    Se você deseja contribuir para este projeto, siga estas etapas:
+    
+    Crie um fork deste repositório.
+    Faça suas alterações na sua cópia local.
+    Envie um pull request para este repositório.
+    Agradeço a sua colaboração!
